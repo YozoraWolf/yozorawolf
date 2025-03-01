@@ -21,11 +21,13 @@ You can also check out my website [here](https://yozorawolf.com).
 |--------------|------------------|
 | **Frontend** | Vue2/3 (Composition API), Angular |
 | **Backend**  | Node.js (Express, NestJS), Java (Spring Boot) |
-| **Database** | MySQL, PostgreSQL, MongoDB, Redis |
+| **Cloud**    | AWS (S3, Route 53, Lambda, API Gateway, CloudFront ...), Azure (Blob Storage, Functions) |
+| **DevOps**   | Nginx, Jenkins, GitHub Actions, Docker |
+| **Database** | MySQL, PostgreSQL, DynamoDB, MongoDB, Redis |
 | **Others**   | Python, Lua, C# |
 | **OS**       | Linux (Linux Mint, Ubuntu), Windows |
 | **AI**       | LangChain, Ollama |
-| **Tools**    | Docker, GitHub Copilot, JIRA, Notion, nulab Backlog, Confluence, Slack, GitHub Actions |
+| **Tools**    | GitHub Copilot, ChatGPT, JIRA, Notion, nulab Backlog, Confluence, Slack, vim |
 
 # 🌐 Languages
 
