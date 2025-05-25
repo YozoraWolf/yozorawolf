@@ -13,7 +13,7 @@ My name is Wolf, I'm a Software Engineer currently working in Tokyo, Japan. I wo
 
 I spend most of my time working but on my free time I like to work on my personal projects that you can check out [here](https://github.com/YozoraWolf?tab=repositories).
 
-You can also check out my website [here](https://yozorawolf.com).
+You can also check out my website [here](https://www.yozorawolf.com/).
 
 # 💻️ Programming
 
